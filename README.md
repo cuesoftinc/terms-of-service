@@ -1,4 +1,4 @@
-# TERMS OF USE 
+# TERMS OF SERVICE 
 
 Cuesoft Cloud Limited is a custom and proprietary software development company that builds innovation and secures digital solution for companies, enterprises and startups.  We are involved in carrying out web development, Mobile app development, Enterprise software Development.
 
