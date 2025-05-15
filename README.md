@@ -8,41 +8,41 @@ MISSION
 To leverage artificial intelligence to improve the quality of education and increase digital literacy, empowering individuals across Africa to achieve higher productivity and growth.
 
 ## OUR CORE VALUES – “IMPACT”
-•	I – Innovation: Leveraging AI to revolutionize education and digital access.
-•	M – Mastery: Upholding integrity, excellence, and ethical practices.
-•	P – Partnership: Collaborating with global institutions for scalable solutions.
-•	A – Accessibility: Ensuring inclusive, equitable access to learning and development.
-•	C – Capability: Empowering individuals with relevant digital and AI skills.
-•	T – Transformation: Committing to meaningful, measurable, and lasting change.
+*	I – Innovation: Leveraging AI to revolutionize education and digital access.
+*	M – Mastery: Upholding integrity, excellence, and ethical practices.
+*	P – Partnership: Collaborating with global institutions for scalable solutions.
+*	A – Accessibility: Ensuring inclusive, equitable access to learning and development.
+*	C – Capability: Empowering individuals with relevant digital and AI skills.
+*	T – Transformation: Committing to meaningful, measurable, and lasting change.
  
 ## OUR COMMITMENT TO THE SUSTAINABLE DEVELOPMENT GOALS (SDGS) 
 Cuesoft aligns with the following United Nations Sustainable Development Goals:
-•	SDG 4 – Quality Education: Delivering inclusive, equitable, and AI-powered education.
-•	SDG 8 – Decent Work and Economic Growth: Increasing employability and productivity through digital literacy.
-•	SDG 9 – Industry, Innovation, and Infrastructure: Promoting technological advancement through open-source and AI-driven innovation.
-•	SDG 17 – Partnerships for the Goals: Collaborating with global and local partners to scale impact.
+*	SDG 4 – Quality Education: Delivering inclusive, equitable, and AI-powered education.
+*	SDG 8 – Decent Work and Economic Growth: Increasing employability and productivity through digital literacy.
+*	SDG 9 – Industry, Innovation, and Infrastructure: Promoting technological advancement through open-source and AI-driven innovation.
+*	SDG 17 – Partnerships for the Goals: Collaborating with global and local partners to scale impact.
 
 ## DEFINITIONS
-•	“Cuesoft”: The AI and software development company providing CueTA and CueLABS services.
-•	“CueTA”: Cuesoft Talent Academy, the EdTech division focused on AI/ML education.
-•	“CueLABS”: Cuesoft DevLabs, the innovation and talent outsourcing division.
-•	“Platform”: Digital infrastructure for accessing Cuesoft’s programs and services.
-•	“Participant”: An individual enrolled in CueTA programs.
-•	“Contractor”: A professional offering services through CueLABS.
-•	“Company”: A client or organization seeking services via CueLABS.
-•	“User”: Anyone interacting with Cuesoft’s services or platforms.
+*	“Cuesoft”: The AI and software development company providing CueTA and CueLABS services.
+*	“CueTA”: Cuesoft Talent Academy, the EdTech division focused on AI/ML education.
+*	“CueLABS”: Cuesoft DevLabs, the innovation and talent outsourcing division.
+*	“Platform”: Digital infrastructure for accessing Cuesoft’s programs and services.
+*	“Participant”: An individual enrolled in CueTA programs.
+*	“Contractor”: A professional offering services through CueLABS.
+*	“Company”: A client or organization seeking services via CueLABS.
+*	“User”: Anyone interacting with Cuesoft’s services or platforms.
 
 ## SCOPE OF SERVICES
 1. Cuesoft Talent Academy (CueTA)
-•	Develop and deploy AI-driven educational tools and platforms tailored to the needs of African learners.
-•	Collaborate with educational institutions to integrate AI technologies into their curricula.
-•	Conduct workshops and training sessions to enhance digital skills at community levels.
-•	Measure and analyze the impact of AI intervention educational outcomes and productivity metrics.
+*	Develop and deploy AI-driven educational tools and platforms tailored to the needs of African learners.
+*	Collaborate with educational institutions to integrate AI technologies into their curricula.
+*	Conduct workshops and training sessions to enhance digital skills at community levels.
+*	Measure and analyze the impact of AI intervention educational outcomes and productivity metrics.
 2. Cuesoft Devlabs (CueLABS)
-•	Foster innovation by making AI educational technologies available for public use.
-•	Manage the outsourcing of skilled engineers to various companies, ensuring high standards and ethical practices.
-•	Support open sourcing initiatives to contribute to the global tech community.
-•	Facilitate talent management to ensure the right fit between engineers and companies, enhancing productivity and growth.
+*	Foster innovation by making AI educational technologies available for public use.
+*	Manage the outsourcing of skilled engineers to various companies, ensuring high standards and ethical practices.
+*	Support open sourcing initiatives to contribute to the global tech community.
+*	Facilitate talent management to ensure the right fit between engineers and companies, enhancing productivity and growth.
 
 ## ELIGIBILITY 
 CueTA is open globally to learners with a passion for AI and tech. 
@@ -50,14 +50,14 @@ CueLABS services are available to pre-qualified contractors and companies under 
 
 ## PAYMENTS AND FEES
 1. CueTA Certificate Fees
-•	Participation in CueTA is free. However, to obtain a certificate, participants must pay a fee of ₦250,000 (for Nigerians) or $250 (for non-Nigerians).
-•	The fee can be paid in four equal monthly installments, due at the start of each month of the program.
-•	Certificates will only be issued upon full payment. Fees are non-refundable, except in exceptional, documented cases, subject to Cuesoft’s discretion.
-•	Cuesoft may, at its sole discretion, offer discounts on the certificate fee based on individual circumstances. All discount decisions are final and non-negotiable.
+*	Participation in CueTA is free. However, to obtain a certificate, participants must pay a fee of ₦250,000 (for Nigerians) or $250 (for non-Nigerians).
+*	The fee can be paid in four equal monthly installments, due at the start of each month of the program.
+*	Certificates will only be issued upon full payment. Fees are non-refundable, except in exceptional, documented cases, subject to Cuesoft’s discretion.
+*	Cuesoft may, at its sole discretion, offer discounts on the certificate fee based on individual circumstances. All discount decisions are final and non-negotiable.
 2. CueLABS Engagement Fees
-•	Cuesoft facilitates payments between Companies and Contractors and charges a service fee, typically a percentage of the total project cost, as agreed in the engagement contract.
-•	All payments will be made through Cuesoft, which handles invoicing, collections, and disbursements to Contractors upon completion or milestone approval.
-•	Payments must be made in Naira or USD, as agreed. Applicable taxes, such as VAT, may apply.
+*	Cuesoft facilitates payments between Companies and Contractors and charges a service fee, typically a percentage of the total project cost, as agreed in the engagement contract.
+*	All payments will be made through Cuesoft, which handles invoicing, collections, and disbursements to Contractors upon completion or milestone approval.
+*	Payments must be made in Naira or USD, as agreed. Applicable taxes, such as VAT, may apply.
 
 ## INTELLECTUAL PROPERTY
 1. CueTA participants: Participants in the Academy may have the opportunity to develop software, create inventions, or contribute to innovative projects as part of the program curriculum. Any software developed, inventions created, or intellectual property generated by participants during the Talent Academy are considered works made for hire and are owned exclusively by Cuesoft.
