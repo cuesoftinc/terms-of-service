@@ -1,117 +1,94 @@
 # TERMS OF SERVICE 
+Welcome to Cuesoft! These Terms of Service govern your access to and use of all services offered by Cuesoft, including Cuesoft Talent Academy (CueTA) and Cuesoft DevLabs (CueLABS). By using our services, you agree to these Terms. If you do not agree, please do not use our services. 
 
-Cuesoft Cloud Limited is a custom and proprietary software development company that builds innovation and secures digital solution for companies, enterprises and startups.  We are involved in carrying out web development, Mobile app development, Enterprise software Development.
+## COMPANY MISSION, VISION, and VALUES
+VISION
+To be a leader in transforming education and enhancing digital literacy across Africa, ultimately boosting the continent’s overall productivity.
+MISSION
+To leverage artificial intelligence to improve the quality of education and increase digital literacy, empowering individuals across Africa to achieve higher productivity and growth.
 
-This agreement sets out the rights and obligations of Clients and Cuesoft Cloud Limited. 
+## OUR CORE VALUES – “IMPACT”
+•	I – Innovation: Leveraging AI to revolutionize education and digital access.
+•	M – Mastery: Upholding integrity, excellence, and ethical practices.
+•	P – Partnership: Collaborating with global institutions for scalable solutions.
+•	A – Accessibility: Ensuring inclusive, equitable access to learning and development.
+•	C – Capability: Empowering individuals with relevant digital and AI skills.
+•	T – Transformation: Committing to meaningful, measurable, and lasting change.
+ 
+## OUR COMMITMENT TO THE SUSTAINABLE DEVELOPMENT GOALS (SDGS) 
+Cuesoft aligns with the following United Nations Sustainable Development Goals:
+•	SDG 4 – Quality Education: Delivering inclusive, equitable, and AI-powered education.
+•	SDG 8 – Decent Work and Economic Growth: Increasing employability and productivity through digital literacy.
+•	SDG 9 – Industry, Innovation, and Infrastructure: Promoting technological advancement through open-source and AI-driven innovation.
+•	SDG 17 – Partnerships for the Goals: Collaborating with global and local partners to scale impact.
 
-## DEFINITIONS 
+## DEFINITIONS
+•	“Cuesoft”: The AI and software development company providing CueTA and CueLABS services.
+•	“CueTA”: Cuesoft Talent Academy, the EdTech division focused on AI/ML education.
+•	“CueLABS”: Cuesoft DevLabs, the innovation and talent outsourcing division.
+•	“Platform”: Digital infrastructure for accessing Cuesoft’s programs and services.
+•	“Participant”: An individual enrolled in CueTA programs.
+•	“Contractor”: A professional offering services through CueLABS.
+•	“Company”: A client or organization seeking services via CueLABS.
+•	“User”: Anyone interacting with Cuesoft’s services or platforms.
 
-Client means person or organization to which Cuesoft provides services, which is a party to this agreement. 
-Parties mean Client and Cuesoft. 
-Confidential information means information that is stated to be confidential or information which a reasonable person would consider confidential. 
-Services include web development, Mobile app development, and software development.
+## SCOPE OF SERVICES
+1. Cuesoft Talent Academy (CueTA)
+•	Develop and deploy AI-driven educational tools and platforms tailored to the needs of African learners.
+•	Collaborate with educational institutions to integrate AI technologies into their curricula.
+•	Conduct workshops and training sessions to enhance digital skills at community levels.
+•	Measure and analyze the impact of AI intervention educational outcomes and productivity metrics.
+2. Cuesoft Devlabs (CueLABS)
+•	Foster innovation by making AI educational technologies available for public use.
+•	Manage the outsourcing of skilled engineers to various companies, ensuring high standards and ethical practices.
+•	Support open sourcing initiatives to contribute to the global tech community.
+•	Facilitate talent management to ensure the right fit between engineers and companies, enhancing productivity and growth.
 
-## GENERAL 
+## ELIGIBILITY 
+CueTA is open globally to learners with a passion for AI and tech. 
+CueLABS services are available to pre-qualified contractors and companies under contractual agreements.
 
-These terms and conditions constitute the whole agreement between Clients and Cuesoft and can only be varied by the parties in writing. 
-
-A Client may accept these terms and conditions by: 
-
-(a) Returning a signed copy of this agreement in electronic or hard copy form; 
-(b) Using the services of Cuesoft after being provided this agreement. 
-
-Clients are responsible for providing Cuesoft with accurate and timely information and for supplying website content unless otherwise stated in the specifications contained in the Reference Schedule. 
-
-Cuesoft is not obliged to provide any services unless these are contained in the specification in the Reference Schedule and Cuesoft may decline to provide services. 
-
-Cuesoft warrants that it will provide services in a professional and workmanlike manner. 
-
-## REMUNERATION 
-
-The Client shall pay Cuesoft the service fee set out in the Reference Schedule for its services. Fees are based on the specifications provided by a Client and additional fees will be payable for additional work. Additional fees may become payable when: 
-(a) A Client requires additional work or services not agreed upon; 
-(b) Work needs to be done which was not anticipated; or 
-(c) A Client requires multiple design drafts or repeated changes which significantly increases the work required. 
-
-Cuesoft will consult a Client before charging any fees additional to those specified in the Reference Schedule. 
-
-Web/app development fees are due as follows: 
-(a) 50% after initial consultation and before work is commenced. 
-(b) 50% before project is deployed to its final destination.
-
-## SUBCONTRACTORS 
-
-The Client agrees that Cuesoft, in providing its products or services under the Agreement, may use third party subcontractors at its discretion. 
-
-Where Cuesoft engages subcontractors for carrying out specific processing activities regarding Client Personal Data, the same data protection obligations as set out in the Agreement between Cuesoft and the Client shall be imposed on that subcontractors by way of a contract or other legal act under applicable law, in particular providing sufficient guarantees to implement appropriate technical and organizational measures in such a manner that the processing will meet the requirements of applicable data protection law. 
-
-Cuesoft shall remain fully responsible for fulfilling all its obligations under the Agreement in relation to any tasks it has delegated to a subcontractor. 
-
-## INDEMNIFICATIONS
-
-Cuesoft shall indemnify the Client from and against any claims, demands and actions brought against the Client that are based upon any infringement of third party; patents, intellectual property rights, copyrights, trademarks, or other intellectual property rights. Cuesoft shall not be responsible for any patents outside Nigeria. 
-
-As a condition of such defence and indemnification, the Client shall give Cuesoft prompt notice of any alleged intellectual property claim, provide all reasonable information, cooperation and assistance, shall not accept or make any admission, compromise or settlement on its own for any such claims, and shall conduct any disputes, including settlements out of court, only in agreement with Cuesoft. 
-
-Cuesoft shall have no obligations under this section 5.1 to the extent that a claim is based on   (i) The combination, operation or use of the Software with other services or software not provided by Cuesoft if such infringement would have been avoided in the absence of such combination, operation or use; or 
-(ii) Use of the Software in any manner inconsistent with the Agreement; or 
-(iii) The negligence or willful misconduct of the Client. 
-
-## LIMITATION OF LIABILITY 
-
-Neither party will be liable for breach-of-contract damages that are remote or speculative, or  that the breaching party could not reasonably have foreseen on entry into this agreement.
-
-## TERM AND TERMINATION
-
-This Agreement will automatically terminate when both Parties have performed all their obligation under the Agreement and all payments have been made. 
-
-Should there be a desire to terminate the agreement before the completion of the project, the Client will notify Cuesoft days in advance, and pay for services already completed and for hours already worked.
+## PAYMENTS AND FEES
+1. CueTA Certificate Fees
+•	Participation in CueTA is free. However, to obtain a certificate, participants must pay a fee of ₦250,000 (for Nigerians) or $250 (for non-Nigerians).
+•	The fee can be paid in four equal monthly installments, due at the start of each month of the program.
+•	Certificates will only be issued upon full payment. Fees are non-refundable, except in exceptional, documented cases, subject to Cuesoft’s discretion.
+•	Cuesoft may, at its sole discretion, offer discounts on the certificate fee based on individual circumstances. All discount decisions are final and non-negotiable.
+2. CueLABS Engagement Fees
+•	Cuesoft facilitates payments between Companies and Contractors and charges a service fee, typically a percentage of the total project cost, as agreed in the engagement contract.
+•	All payments will be made through Cuesoft, which handles invoicing, collections, and disbursements to Contractors upon completion or milestone approval.
+•	Payments must be made in Naira or USD, as agreed. Applicable taxes, such as VAT, may apply.
 
 ## INTELLECTUAL PROPERTY
-Clients will retain intellectual property held prior to entering into this agreement. 
-Clients agree to indemnify Cuesoft for any breach of intellectual property.
-Cuesoft will retain intellectual property in material that it designs or develops, including through contractors.
+1. CueTA participants: Participants in the Academy may have the opportunity to develop software, create inventions, or contribute to innovative projects as part of the program curriculum. Any software developed, inventions created, or intellectual property generated by participants during the Talent Academy are considered works made for hire and are owned exclusively by Cuesoft.
+2. CueLABS contractors:All projects executed through CueLABS shall be governed by the specific terms of each engagement. By default, all intellectual property created by a Contractor during the course of a project shall belong to the Company that commissioned the work, provided full payment has been made.
 
-## CONFIDENTIALITY 
-
-“Confidential Information” shall be all information marked as “confidential”, or oral information which is subsequently confirmed in text form (e.g. by email) and marked as confidential, as well as information whose confidential nature is clear from its content or from the circumstances under which it was disclosed. Confidential information shall include the content of any commercial agreements between the Parties. If there is any doubt as to the confidential nature of information, the Party considering disclosure of this information shall contact the other Party without undue delay to seek clarification, in any event before disclosing the information to third parties. 
-
-Information shall not be deemed confidential if 
-(a) It was known before disclosure by the other Party; 
-(b) It was developed independently without recourse to or use of information from the other Party; 
-(c) It was lawfully received from third parties who, to the Party’s best knowledge, were not bound by any confidentiality obligation to the other Party; 
-(d) such information becomes known to the general public without infringement of confidentiality provisions contained in the Agreement, or of any other provisions in place to protect the business secrets of the Parties; or 
-(e) It must be disclosed based on an official or judicial order, or based on the disclosure rules applicable to companies that are listed on a public stock exchange. In the latter case, the disclosing Party shall inform the other Party of the disclosure without undue delay.
-
-Each Party undertakes to treat the other Party’s Confidential Information as confidential, and to apply at least the same degree of care in protecting the other Party’s Confidential Information as it applies to protecting its own Confidential Information (but in any case not less than reasonable care). 
-
- The confidentiality obligation under this clause 8 shall apply for the agreed term of the Agreement and for an additional period of 10 years thereafter. 
-
+## CONFIDENTIALITY & NON DISCLOSURE
+By engaging with any Cuesoft platform including CueTA and CueLABS, all Users (Participants, Contractors, and Companies) are deemed to be under an implied Non-Disclosure Agreement.
+Users agree not to disclose, share, reproduce, or make unauthorized use of any confidential or proprietary information received, accessed, or developed during the course of their engagement with Cuesoft.
+“Confidential Information” shall be all information marked as “confidential”, or oral information which is subsequently confirmed in text form (e.g. by email) and marked as confidential, as well as information whose confidential nature is clear from its content or from the circumstances under which it was disclosed. Confidential information shall include the content of any commercial agreements between the Parties. If there is any doubt as to the confidential nature of information, the Party considering disclosure of this information shall contact the other Party without undue delay to seek clarification, in any event before disclosing the information to third parties.
+  
 ## FORCE MAJEURE 
 Neither Party shall be liable for default of any obligation hereunder if such default results from a force majeure (which includes, without limitation, governmental acts or directives, acts of God, terrorism, war, insurrection, riot or civil commotion, flooding, or embargoes) which is not within the reasonable control of the Party affected (”Force Majeure”). In such events, the affected Party (the “Affected Party”) shall, without undue delay, inform the other Party (the “Unaffected Party”) of such circumstances together with documents of proof; and the performance of obligations hereunder shall be suspended during, but not longer than, the period of existence of such cause and the period reasonably required to perform the affected obligations in such cases. 
-
 Should a cause of Force Majeure relating to a material obligation of the Affected Party continue for more than one (1) month, the Parties shall discuss in good faith the performance of each Party’s obligations hereunder. 
 
-## GOVERNING LAW
-This Contract shall be governed by and construed in all respects in accordance with the laws of the Federal Republic of Nigeria 
+## CODE OF CONDUCT
+All participants must adhere to respectful, collaborative, and ethical standards. Misconduct, including plagiarism, harassment, or disruption, may lead to termination.
 
-## DISPUTE RESOLUTION
-Any dispute(s) arising out of or in connection with our obligations under this service shall first be resolved by good faith negotiations and mediation. 
+## TERMINATION
+Cuesoft may terminate or suspend any User’s access to CueTA or CueLAB at any time for violations of these Terms, misconduct, non-compliance, or failure to meet payment obligations.
+Users may also terminate their engagement by providing written notice. However, no refunds will be issued for previously paid fees unless expressly agreed.
+Upon termination, Users will lose access to all platforms and resources, and any pending deliverables or payments will be handled according to the relevant agreement.
 
-## REFERENCES
+## GOVERNING LAW AND DISPUTE RESOLUTION
+These Terms of Service are governed by the laws of the Federal Republic of Nigeria.
+In the event of a dispute regarding payments or services rendered, Cuesoft will mediate and facilitate resolution between the parties involved. If dispute is not amicably settled within 30 days of notice proposing settlement thereof by Cuesoft, the same shall be referred to arbitration before a single arbitrator who shall be appointed in accordance with the provisions of the Arbitration and conciliation Act. Cap A18, Laws of the Federation of Nigeria (LFN) 2004, and whose decision shall be conclusive, final and binding on both Parties. Each Party will bear its own costs and the language to be used shall be English. The seat of the arbitration shall be Lagos, Nigeria.
 
-Cuesoft shall be entitled to use the Client’s name and logo for reference purposes in its own advertising materials such as website, trade fair presentation, brochures, newsletters etc. This is however subject to the prior consent of the Client. 
+## AMENDMENTS
+Cuesoft may revise these Terms at any time. Continued use of services after updates constitutes acceptance
 
-If such use of the Client’s brand is subject to specific guidelines the Client has to notify these to Cuesoft (e.g. by email). 
+## SEVERABILITY
+Any invalid provision shall be severed or modified, and remaining provisions shall remain in full force and effect. 
 
-## MODIFICATIONS OF THE AGREEMENT 
-Cuesoft may modify any terms and conditions of the Agreement with the Client’s consent. The Client’s consent shall be deemed as given if 
-Cuesoft notifies the Client of the proposed changes in text form (e.g. by email) with an adequate notice period (usually four weeks) and 
-
-The Client does not object to the change in text form (e.g. by email) before the change becomes effective.
-
-## SEVERABILITY 
-If any provision contained in the Agreement is or becomes ineffective or is held to be invalid by a competent authority or court, all other provisions of the Agreement shall remain in full force and effect, and the Parties shall agree in good faith to substitute the ineffective or invalid provision by a valid and enforceable provision having an economic effect as similar as possible to the original provision.
-
-## REFERENCES SCHEDULE
-Subject to client requirements and agreement.
+## CONTACT US
+For any inquiries or concerns regarding these Terms of Service, please contact us at support@cuesoft.io. 
