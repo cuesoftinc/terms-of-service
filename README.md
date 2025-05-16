@@ -85,7 +85,7 @@ These Terms of Service are governed by the laws of the Federal Republic of Niger
 In the event of a dispute regarding payments or services rendered, Cuesoft will mediate and facilitate resolution between the parties involved. If dispute is not amicably settled within 30 days of notice proposing settlement thereof by Cuesoft, the same shall be referred to arbitration before a single arbitrator who shall be appointed in accordance with the provisions of the Arbitration and conciliation Act. Cap A18, Laws of the Federation of Nigeria (LFN) 2004, and whose decision shall be conclusive, final and binding on both Parties. Each Party will bear its own costs and the language to be used shall be English. The seat of the arbitration shall be Lagos, Nigeria.
 
 ## AMENDMENTS
-Cuesoft may revise these Terms at any time. Continued use of services after updates constitutes acceptance
+Cuesoft may revise these Terms at any time. Continued use of services after updates constitutes acceptance.
 
 ## SEVERABILITY
 Any invalid provision shall be severed or modified, and remaining provisions shall remain in full force and effect. 
